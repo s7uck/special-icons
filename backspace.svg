@@ -1,8 +1,8 @@
 <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 4H20V15H7L1 9.5L7 4Z" stroke="black"/>
+<path d="M7 4H20V15H7L1 9.5L7 4Z" stroke="white"/>
 <g clip-path="url(#clip0_81_3)">
-<path d="M9 6L16 13" stroke="black"/>
-<path d="M16 6L9 13" stroke="black"/>
+<path d="M9 6L16 13" stroke="white"/>
+<path d="M16 6L9 13" stroke="white"/>
 </g>
 <defs>
 <clipPath id="clip0_81_3">
