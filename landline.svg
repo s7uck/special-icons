@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.3005 16H2.69951C1.93703 16 1.45506 15.1809 1.82536 14.5144L5.71425 7.51436C5.89062 7.19689 6.22524 7 6.5884 7H13.4116C13.7748 7 14.1094 7.19689 14.2858 7.51436L18.1746 14.5144C18.5449 15.1809 18.063 16 17.3005 16Z" stroke="white"/>
+<path d="M5.84488 3.8568L5.45851 3.98257L5.5026 4.38649L5.82855 7.37259L4.36543 9.76225L0.753723 6.95597C5.81511 1.72411 14.1849 1.72411 19.2463 6.95597L15.635 9.76189L14.182 7.38308L14.4976 4.38458L14.5399 3.98266L14.1558 3.85702C11.6762 3.04595 8.31732 3.05195 5.84488 3.8568Z" stroke="white"/>
+<rect x="7.5" y="9" width="1" height="1" fill="white"/>
+<rect x="9.5" y="9" width="1" height="1" fill="white"/>
+<rect x="11.5" y="9" width="1" height="1" fill="white"/>
+<path d="M7.5 11H8.5V12H7L7.5 11Z" fill="white"/>
+<rect x="9.5" y="11" width="1" height="1" fill="white"/>
+<path d="M11.5 11H12.5L13 12H11.5V11Z" fill="white"/>
+<path d="M6.5 13H8.5V14H6L6.5 13Z" fill="white"/>
+<rect x="9.5" y="13" width="1" height="1" fill="white"/>
+<path d="M11.5 13H13.5L14 14H11.5V13Z" fill="white"/>
+</svg>
